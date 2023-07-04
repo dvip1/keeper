@@ -3,7 +3,7 @@ export default function Header() {
     return (
         <>
             <header>
-                <h1>Keeper</h1>
+                <h1>Dvip's Notes</h1>
             </header>
         </>
     )
