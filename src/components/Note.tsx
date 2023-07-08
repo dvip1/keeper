@@ -2,7 +2,6 @@ import NoteProp from "./props/notesProp"
 import { notesData } from "./data/notes"
 import { NoteType } from "./types/cardType"
 
-
 export default function Notes() {
     return (
         <div className="wrapper ">
